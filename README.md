@@ -36,3 +36,18 @@ Use the arrow keys to move the player:
 - **Right Arrow:** Move right
 
 Enjoy navigating the maze and finding your way to the exit!
+## Contributing
+
+If you'd like to contribute to this project, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](link_to_license_file).
+## Contributing
+
+If you'd like to contribute to this project, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](link_to_license_file).
+
