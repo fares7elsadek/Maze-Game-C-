@@ -43,11 +43,5 @@ If you'd like to contribute to this project, feel free to submit a pull request.
 ## License
 
 This project is licensed under the [MIT License](link_to_license_file).
-## Contributing
 
-If you'd like to contribute to this project, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](link_to_license_file).
 
